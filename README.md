@@ -10,7 +10,7 @@ A tool to download all your books from educadhoc.fr
 
 ## Installation
 
-1. Download the source code from [here](https://github.com/Leone25/kitaboo-downloader/archive/refs/heads/main.zip) or click the above green button `Code` and click `Download Zip`
+1. Download the source code from [here](https://github.com/Leone25/educadhoc-downloader/archive/refs/heads/main.zip) or click the above green button `Code` and click `Download Zip`
 2. Extract the zip file in a new folder and open it
 3. Open the folder in a terminal
    1. If you are on Windows 11, just right click and press `Open with Windows Terminal`
